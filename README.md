@@ -67,7 +67,3 @@ width="800" height="400"/>
     <img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </p>
-<h3 align="center">GITHUB STATS</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakydh&bg_color=DEG,0F1135,2f36a8&color=FFFFFF&theme=tokyonight&show_icons=true&line_height=27&hide=HTML&range=all-time" alt="snakydh" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=snakydh&bg_color=DEG,0F1135,2f36a8&color=FFFFFF&theme=tokyonight&show_icons=true&line_height=27" alt="snakydh" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snakydh&bg_color=2b329b&color=ffffff&line=3178c6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="snakydh" />
