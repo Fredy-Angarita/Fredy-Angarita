@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <h3>Backend</h3>
     <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,nodejs,nestjs,docker"/>
-  <h3>IDE's and OS</h3>
+  <h3>Dev Tools and OS</h3>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
