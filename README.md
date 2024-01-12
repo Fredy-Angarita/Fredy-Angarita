@@ -1,7 +1,3 @@
-<div align="center">
-  <img  src="https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg" 
-width="800" height="400"/>
-</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/danielgarciadh/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel García Romero LinkedIn" target="_blank"/></a>
 &nbsp;
