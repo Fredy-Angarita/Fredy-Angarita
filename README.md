@@ -38,4 +38,10 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </div>
-</div>
+  <hr/>
+  <h2 align="center">Github Stats</h2>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fsxerath&theme=blue-green"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fsxerath&theme=blue-green"/>
+  
+
+
