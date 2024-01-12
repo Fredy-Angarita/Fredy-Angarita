@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=30&pause=1000&background=00B5FF00&center=true&vCenter=true&random=false&width=552&lines=Hi!+I'm+Fredy+Angarita" alt="Typing SVG" /></a>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/danielgarciadh/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel García Romero LinkedIn" target="_blank"/></a>
 &nbsp;
