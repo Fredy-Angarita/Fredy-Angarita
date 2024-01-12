@@ -1,5 +1,5 @@
 <p aling="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=35&pause=1000&color=FFDEA8&center=true&random=false&width=475&height=60&lines=Hi!+I'm+Fredy+Angarita" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img aling="center" src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=35&pause=1000&color=FFDEA8&center=true&random=false&width=475&height=60&lines=Hi!+I'm+Fredy+Angarita" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/danielgarciadh/"><img align="center" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniel García Romero LinkedIn" target="_blank"/></a>
