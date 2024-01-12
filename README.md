@@ -12,7 +12,7 @@ width="800" height="400"/>
 <p align=center>
   <h3 align="center">ABOUT ME</h3>
   <p align="center">
-    I am a FullStack Web developer, currently studying at 
+    I am a Backend developer, currently studying at 
     Universidad Distrital Francisco Jose de Caldas. </br>
   </p>
 </p>
