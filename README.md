@@ -7,7 +7,7 @@
 <div align="center">
   <h2>About Me</h2>
   <p>
-    I'm a Backend Developer, currently studying at Universidad Distrital Francisco Jose de Caldas. <br/>
+    I'm Backend Developer, currently studying at Universidad Distrital Francisco Jose de Caldas. <br/>
     Also learning Mobile Techologies like Flutter and Native Android Development.<br/>
   </p>
   <hr/>
