@@ -8,7 +8,7 @@
   <h2>About Me</h2>
   <p>
     I'm Backend Developer, currently studying at Universidad Distrital Francisco Jose de Caldas. <br/>
-    Also learning Mobile Techologies like Flutter and Native Android Development.<br/>
+    Also Know Frontend Techologies like Angular.<br/>
   </p>
   <hr/>
   <div align="center">
