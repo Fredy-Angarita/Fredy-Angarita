@@ -40,8 +40,8 @@
   </div>
   <hr/>
   <h2 align="center">Github Stats</h2>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fsxerath&theme=blue-green"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fsxerath&theme=blue-green"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredy-Angarita&theme=blue-green"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fredy-Angarita&theme=blue-green"/>
   
 
 
